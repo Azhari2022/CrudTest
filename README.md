@@ -22,7 +22,7 @@ Customers is unique in database: By Firstname, Lastname and DateOfBirth.
 
 Email is unique in the database.
 
-Project contain:
+Project is with .Net7 and contain:
 
     DDD
 
