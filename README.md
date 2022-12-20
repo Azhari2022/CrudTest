@@ -22,3 +22,14 @@ Customers is unique in database: By Firstname, Lastname and DateOfBirth.
 
 Email is unique in the database.
 
+Project contain:
+
+    DDD
+
+    BDD
+
+    Clean architecture
+
+    CQRS pattern 
+
+
