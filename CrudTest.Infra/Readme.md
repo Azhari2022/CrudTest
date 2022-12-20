@@ -1,0 +1,1 @@
+﻿To add migration: dotnet ef --startup-project ../CrudTest.Api/  migrations add InitialCreate
